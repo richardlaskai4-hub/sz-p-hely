@@ -1,0 +1,29 @@
+body {
+    background: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE4ZW84ajBhOHNkbXg0YmpqbGVmdHJiODB5c3hpNmFmOTJ3ODNrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QYEvXhE5JJn2QGvmX/giphy.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.fekete {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 90%;
+    max-width: 700px;
+    margin: auto;
+    padding: 15px;
+    border: 5px gold double;
+}
+h1 {
+    font-size: 28px;
+    color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+     color: red;
+       text-align: center;
+}
+.valami {
+    font-family: monospace;
+}
